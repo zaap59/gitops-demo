@@ -4,6 +4,7 @@ metadata:
   labels:
     app: gitops-demo-app
   name: gitops-demo-app
+  namespace: app
 spec:
   ports:
     - port: 8000
