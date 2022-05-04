@@ -20,5 +20,5 @@ spec:
         app: gitops-demo-app
     spec:
       containers:
-      - image: ghcr.io/zaap59/gitops-demo-app:v0.2.2
+      - image: ghcr.io/zaap59/gitops-demo-app:v0.2.3
         name: gitops-demo-app
