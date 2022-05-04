@@ -1,0 +1,1 @@
+{"jobID":"fd867b59-1659-a955-5c98-31f4c84c833b","spec":{"type":"policy","cause":{"Message":"","User":"Hugo GARBEZ \u003czaap59@gmail.com\u003e"},"spec":{"app:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
