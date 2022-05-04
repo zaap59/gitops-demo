@@ -6,6 +6,9 @@ metadata:
     app: gitops-demo-app
   name: gitops-demo-app
   namespace: app
+  annotations:
+    fluxcd.io/automated: "true"
+    fluxcd.io/tag.gitops-demo-app: regex:v*
 
 spec:
   replicas: 1
